@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "meupaisagismo",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "6ea9d67b-589f-4831-8583-7822abd40319",
+			"database_name": "meu-paisagismo-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
